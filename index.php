@@ -87,6 +87,9 @@ function orderItem(itemID){
 <head>
 	<title>Microservices Sample</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    	<meta http-equiv="Pragma" content="no-cache" />
+    	<meta http-equiv="Expires" content="0" />
 	<link rel="stylesheet" href="style.css">
 </head>
 <table class="headerTable">
@@ -99,7 +102,9 @@ function orderItem(itemID){
 		<div id='boxes' class="notes"></div>
 	</div>
 	<div id="loading"><br>Loading...</div>
-	<!--a href="./autoLoadTest.html">Catalog Load Tester</a-->
+	<a href="./autoLoadTest.html">Catalog Load Tester</a>
+	<!--img src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops"-->
+     	<p>My favorite color is blue</p>
 </body>
 </html>
 
