@@ -103,6 +103,9 @@ function orderItem(itemID){
 	</div>
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
+	<!-- Small image -->
+	<img src="http://upload.wikimedia.org/wikipedia/commons/0/07/Multi-use_water_bottle.JPG" height="25%" width="25%" alt="Oops">
+	<!-- Large image -->
 	<!--img src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops"-->
      	<p>My favorite color is blue</p>
 </body>
