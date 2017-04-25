@@ -5,7 +5,7 @@
 include 'getItems.php';
 $result = RetrieveItems();
 
-?>
+?> 
 
 <script>
 var RETRY_INTERVAL = 5000;
