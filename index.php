@@ -115,7 +115,7 @@ function orderItem(itemID){
 	<img id="portugal" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Praia_da_Rocha-Portimao_%28Portugal%29_%2833512845665%29.jpg" height="25%" width="25%" alt="Oops">
         -->
       <!-- Add large images, uncomment the previous img lines to create a response time alarm in BAM -->	
-	
+	 
 	<p>My favorite color is blue</p>
 </body>
 </html>
