@@ -24,7 +24,7 @@ function loadItems(items){
         addItem(items.rows[i].doc);
     }
 }
-
+ 
 function reloadCatalog() {
     showErrorMessage("The catalog is not currently available, retrying...");
     window.setTimeout(
